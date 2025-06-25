@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=반가워요!😊&desc=This%20is%20Victory's%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
 <!--
+
+
+
+![victory-swu's github stats](https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=tokyonight)
 **victory-swu/victory-swu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
