@@ -1,6 +1,6 @@
-<!-- 🌟 Header -->
+<!-- 🌸 Animated Pastel Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=280&section=header&text=Hi%20%F0%9F%A7%9C%20I'm%20Seungri!&fontSize=42&fontColor=FFB6C1" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDF6F0,E0FFFF,FBEFFF&height=280&section=header&text=💖%20Welcome%20to%20My%20Pastel%20Dev%20World&fontSize=45&fontColor=FA8EAF&animation=twinkling" />
 </p>
 
 <h3 align="center">💫 Passionate Learner | 🧁 Code Aesthete | 🍓 Sweet Dreamer</h3>
@@ -52,8 +52,16 @@
 ---
 
 <!-- 🌸 Footer -->
+## 🌸 Footer with Message
+
+```md
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDEFF9,E0FFFF,F5F5DC&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDF6F0,E0FFFF,FBEFFF&height=120&section=footer" />
+</p>
+
+<p align="center" style="font-size: 14px;">
+  🫶 Thank you for visiting my cozy dev corner 🧁  
+  💌 Let’s grow and bloom together
 </p>
 
 
