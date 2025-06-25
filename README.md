@@ -24,13 +24,12 @@
   <img src="https://img.shields.io/badge/Python-FFE4E1?style=flat-square&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/C-B0E0E6?style=flat-square&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-FADADD?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-FDCEDF?style=flat-square&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-E0FFFF?style=flat-square&logo=css3&logoColor=black"/>
 </p>
 
 ### 🎨 Design & Hobbies
 - 🌸 Figma, Canva로 UI 시안 제작 연습 중
-- ✏️ Notion으로 학습 정리 & 블로그 쓰는 거 좋아해요
+- 🤖 KakaoTalk에서 최적화된 봇 만들기
+- 🍽 먹기 전에 사진찍고 SNS에 올리는거 좋아함 ㅋ
 
 ---
 
@@ -45,7 +44,7 @@
 
 ## 🎯 Goals
 
-- ⛳ 2025년 안에 백준 골드 찍기!
+- ⛳ 졸업 전까지 필수 자격증 취득 & 열공하기
 - 🧁 나만의 포트폴리오 웹사이트 제작
 - 📚 코딩 공부를 *꾸준히*, *재밌게* 할 수 있는 루틴 만들기
 - 🤝 오픈소스에도 한 번 도전해보기!
