@@ -9,13 +9,11 @@
 
 ## 🌟 About Me
 
-안녕하세요! 저는 **SWU에서 컴퓨터공학을 전공하고 있는 Seungri**입니다.  
-코드 한 줄에도 감성과 창의력을 담고 싶은 예비 개발자예요 ✨  
-현재는 **C**, **Python**, 그리고 조금씩 **Frontend** 도전 중입니다!
-
-- 💡 *“사용자의 마음을 움직이는 코드, 그게 진짜 멋있는 코드다.”*
-- 🔥 항상 **배움을 즐기고**, **기술과 디자인을 연결하는 개발자**를 꿈꾸고 있어요.
-- 🎀 포근한 UX, 알록달록한 UI를 좋아해요!
+> 🐣 *Hello, Guys!* I'm Seungri  
+> 🎓 A cheerful **Computer Engineering Student** in Korea  
+> 💫 Dreaming to become a **Kind & Creative Programmer**  
+> 🏫 Studying at **Seowon University**  
+> 🍓 Currently Learning: **C**, **Python** — and making things that sparkle ✨
 
 ---
 
