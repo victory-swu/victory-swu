@@ -7,7 +7,7 @@
 
 ## 🍬 About Me
 
-> 🐣 *Annyeong!* I'm Seungri  
+> 🐣 *Hello, Guys!* I'm Seungri 
 > 🎓 A cheerful **Computer Engineering Student** in Korea  
 > 💫 Dreaming to become a **Kind & Creative Programmer**  
 > 🏫 Studying at **Seowon University**  
@@ -17,7 +17,7 @@
 
 ## 🍭 Tech Stack
 
-### 💻 Languages I Love
+### 💻 Languages
 <p>
   <img src="https://img.shields.io/badge/Python-FDDBB1?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-AEC6CF?style=flat-square&logo=c&logoColor=white"/>
@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD,FFE4E1,E0FFFF&height=120&section=footer"/>
 </p>
-
 
 <!--
 **victory-swu/victory-swu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
