@@ -52,8 +52,6 @@
 ---
 
 <!-- Footer -->
-## 🌸 Footer with Messages
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FDF6F0,E0FFFF,FBEFFF&height=120&section=footer" />
 </p>
