@@ -1,6 +1,6 @@
 <!-- 🌟 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=280&section=header&text=Hi%20%F0%9F%A7%9C%20I'm%20Seungri!&fontSize=42&fontColor=FFB6C1" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD,FFE4E1,E0FFFF&height=280&section=header&text=Hi%20%F0%9F%A7%9C%20I'm%20Seungri!&fontSize=42&fontColor=FF69B4" alt="header" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 
 <!-- 🌼 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFACD,FFE4E1,E0FFFF&height=120&section=footer"/>
 </p>
 
 
