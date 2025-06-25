@@ -1,32 +1,44 @@
-<!-- Header -->
+<!-- 🌈 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=반가워요&fontSize=40" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,ADD8E6,E6E6FA&height=280&section=header&text=Hello%20%F0%9F%8C%B8%20I'm%20Seungri!&fontSize=40&fontColor=ffffff" alt="header" />
 </p>
 
 ---
 
 ## 👀 About Me
-- 🙋‍♀️ I am a **Computer Engineering Student** from **South Korea**
-- 🔥 I want to become a **Programmer**
-- 🎓 Major in Computer Engineering at **Seowon University (SWU)**
+
+> 🧸 *Nice to meet you!*  
+> 🎓 I'm a **Computer Engineering Student** from **South Korea**  
+> 💖 My dream is to become a kind and creative **Programmer**  
+> 🏫 I'm currently studying at **Seowon University (SWU)**  
+> 🌱 Learning: **Python**, **C Language**
 
 ---
 
-## 🧱 Tech Stack
+## 🧁 Tech Stack
 
 ### 💻 Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/C-A8B9CC?&style=flat-square&logo=C&logoColor=white"/>  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<p>
+  <img src="https://img.shields.io/badge/Python-FEE500?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-87CEFA?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
 ---
 
-## 🤔 GitHub Stats
+## 🎀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=tokyonight" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory-swu&layout=compact&theme=tokyonight" width="49.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=rose_pine&title_color=ffb6c1&icon_color=ffb6c1" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory-swu&layout=compact&theme=rose_pine&title_color=ffb6c1" width="48%"/>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,ADD8E6,E6E6FA&height=120&section=footer"/>
+</p>
+
 
 
 <!--
