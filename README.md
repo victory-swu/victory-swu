@@ -1,6 +1,6 @@
-<!-- 💡 Header -->
+<!-- 🌟 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDEFF9,AEC6CF,E0FFFF&height=280&section=header&text=Hi%20%E2%9C%A8%20I'm%20Seungri!&fontSize=45&fontColor=8A2BE2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=280&section=header&text=Hi%20%F0%9F%A7%9C%20I'm%20Seungri!&fontSize=42&fontColor=FFB6C1" alt="header" />
 </p>
 
 <h3 align="center">💫 Passionate Learner | 🧁 Code Aesthete | 🍓 Sweet Dreamer</h3>
