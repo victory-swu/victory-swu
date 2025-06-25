@@ -1,6 +1,5 @@
 ## 안녕하세요 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300§ion=header&text=반가워요!😊&desc=This%20is%20Victory's%20playground.%20&fontSize=90&descSize=30&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=반가워요!😊)
 <!--
 
 <details>
