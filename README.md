@@ -49,8 +49,6 @@
 - 📚 코딩 공부를 *꾸준히*, *재밌게* 할 수 있는 루틴 만들기
 - 🤝 오픈소스에도 한 번 도전해보기!
 
----
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FDF6F0,E0FFFF,FBEFFF&height=120&section=footer" />
