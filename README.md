@@ -51,7 +51,6 @@
 
 ---
 
-<!-- 🌸 Footer -->
 ## 🌸 Footer with Message
 
 ```md
