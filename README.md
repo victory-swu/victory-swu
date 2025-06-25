@@ -1,5 +1,7 @@
 ## 안녕하세요 👋
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+위 코드를 바탕으로 우리가 원하는 디자인을 커스텀해서 사용하면 된다.
 <!--
 **victory-swu/victory-swu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
