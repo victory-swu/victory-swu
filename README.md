@@ -1,19 +1,6 @@
-## 안녕하세요 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=반가워요!😊)
-<!--
 
-<details>
-<summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 내가 지금 배우는 ... 
-</summary>
-   <br>
-  
-https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
-
-</details>
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
-
-![victory-swu's github stats](https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victory-swu)](https://github.com/anuraghazra/github-readme-stats)
 **victory-swu/victory-swu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
