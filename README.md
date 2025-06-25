@@ -1,44 +1,45 @@
-<!-- 🌼 Header -->
+<!-- 🌟 Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,ADD8E6,FFFACD&height=280&section=header&text=Hello%20%F0%9F%92%9C%20I'm%20Seungri!&fontSize=40&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=280&section=header&text=Hi%20%F0%9F%A7%9C%20I'm%20Seungri!&fontSize=42&fontColor=FFB6C1" alt="header" />
 </p>
 
 ---
 
-## 👀 About Me
+## 🍬 About Me
 
-> 🧸 *Nice to meet you!*  
-> 🎓 I'm a **Computer Engineering Student** from **South Korea**  
-> 💖 I dream of becoming a kind and creative **Programmer**  
-> 🏫 Studying at **Seowon University (SWU)**  
-> 🌱 Learning: **C Language**, **Python**
+> 🐣 *Annyeong!* I'm Seungri  
+> 🎓 A cheerful **Computer Engineering Student** in Korea  
+> 💫 Dreaming to become a **Kind & Creative Programmer**  
+> 🏫 Studying at **Seowon University**  
+> 🍓 Currently Learning: **C**, **Python** — and making things that sparkle ✨
 
 ---
 
-## 🧁 Tech Stack
+## 🍭 Tech Stack
 
-### 💻 Language
+### 💻 Languages I Love
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD700?style=flat-square&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/C-87CEFA?style=flat-square&logo=c&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-FDDBB1?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-AEC6CF?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFCAD4?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 ---
 
-## 🎀 GitHub Stats
+## 🌈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=bubblegum&title_color=FF69B4&icon_color=FFD700" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory-swu&layout=compact&theme=bubblegum&title_color=FF69B4" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victory-swu&show_icons=true&theme=tokyonight&title_color=FF99C8&icon_color=FFB6B9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victory-swu&layout=compact&theme=tokyonight&title_color=FF99C8" width="48%"/>
 </p>
 
 ---
 
-<!-- 🌸 Footer -->
+<!-- 🌼 Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFE4E1,ADD8E6,FFFACD&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFF0F5,E0FFFF,FAFAD2&height=120&section=footer"/>
 </p>
+
 
 <!--
 **victory-swu/victory-swu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
